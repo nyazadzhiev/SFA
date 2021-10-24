@@ -1,0 +1,14 @@
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.csproj.AssemblyReference.cache
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.AssemblyInfoInputs.cache
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.AssemblyInfo.cs
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.csproj.CoreCompileInputs.cache
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\bin\Debug\netcoreapp3.1\ToDoApp.exe
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\bin\Debug\netcoreapp3.1\ToDoApp.deps.json
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\bin\Debug\netcoreapp3.1\ToDoApp.runtimeconfig.json
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\bin\Debug\netcoreapp3.1\ToDoApp.runtimeconfig.dev.json
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\bin\Debug\netcoreapp3.1\ToDoApp.dll
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\bin\Debug\netcoreapp3.1\ToDoApp.pdb
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.dll
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.pdb
+F:\Scalefocus Academy\Assignment 1\ToDoApp\ToDoApp\obj\Debug\netcoreapp3.1\ToDoApp.genruntimeconfig.cache
